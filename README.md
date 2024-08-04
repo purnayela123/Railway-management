@@ -47,7 +47,7 @@ The Railway Management System is a web application designed to handle various op
    ```bash
    cd railway-management-frontend
    ```
-   Here create a src file and add all the js files except server.
+   Here create a src folder and add all the js files except server.
 
 3. **Install Dependencies:**
 
